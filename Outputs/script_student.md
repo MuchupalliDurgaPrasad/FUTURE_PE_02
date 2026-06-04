@@ -1,0 +1,8 @@
+| Scene          | Voiceover                                                                                                                                 | On-Screen Text                          |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| **Hook**       | “As a student, I didn’t think earbuds would actually matter this much… until I got these.”                                                | **Student Life + boAt Airdopes 141 🎧** |
+| **Problem**    | “My old earbuds used to die in the middle of online classes or while traveling, and it was so annoying.”                                  | **Class interrupted ❌ Low battery ❌**   |
+| **Solution**   | “So I switched to boAt Airdopes 141, and honestly, it just made my daily routine smoother.”                                               | **Switched to boAt Airdopes 141 🔥**    |
+| **Experience** | “I use them during lectures, while studying, even on breaks. The sound is clear, and I don’t have to keep charging them again and again.” | **Study • Travel • Breaks 🎧🔋**        |
+| **Experience** | “Even during calls, I don’t have to repeat myself. It just works without any stress.”                                                     | **Clear Calls ✅ Smooth Audio 🎶**       |
+| **CTA**        | “If you’re a student like me, trust me… these make life easier. You should check out boAt Airdopes 141.”                                  | **Upgrade your student setup 🚀**       |
